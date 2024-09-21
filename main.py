@@ -1,11 +1,3 @@
-print("hello world guys")
-print ("hello dek")
-print("hahaha")
-print("hihiiihi")
-print("loloo")
-print("kokooihi")
-print("nanana")
-print("hkakakaka")
-
-
-#ini ada di cabang dev akamsi
+nama = input("Masukkan nama: ")
+umur = int(input("Masukkan umur: "))
+print(f"Halo {nama}, umur kamu {umur} tahun")
