@@ -11,3 +11,4 @@ elif umur < 18 and tb >= 160:
     print(f"Maaf saudara/i {nama} daftar lagi {next} tahun lagi ya")
 else:
     print(f"Maaf saudara/i {nama} tidak termasuk dalam kategori penerimaan Mahasiswa Baru")
+    #ini programnya ya 
